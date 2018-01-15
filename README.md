@@ -1,0 +1,2 @@
+# MyBitcoin
+MIT
